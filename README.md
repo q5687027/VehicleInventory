@@ -1,2 +1,4 @@
 # VehicleInventory
 jsp+sevlet+jdbc的一个简单curd,提供给大学生抄作业
+修改DatabaseConnection 中的URL、user、password 参数，连接自己的数据库
+添加符合自己数据库版本的jdbcjar包以及jstl的jar包到自己的tomcatlib下面
